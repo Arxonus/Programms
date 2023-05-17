@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T17:42:35.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="v1b6mlFiYVU5K_I1D9I4" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T17:47:44.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="7pyO2LlpUtAfllgzJsMt" version="20.8.23" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1430" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -77,20 +77,20 @@
             <mxPoint x="430" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ut147Ld2SQP-KLoo4Qrj-73" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="ut147Ld2SQP-KLoo4Qrj-73" value="&amp;lt;&amp;lt;Service&amp;gt;&amp;gt;&lt;br&gt;Authentication&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="90" width="30" height="53" as="geometry" />
         </mxCell>
         <mxCell id="ut147Ld2SQP-KLoo4Qrj-74" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="200" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ut147Ld2SQP-KLoo4Qrj-75" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="ut147Ld2SQP-KLoo4Qrj-75" value="Credit Payment&lt;br&gt;Service" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="360" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ut147Ld2SQP-KLoo4Qrj-76" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="540" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ut147Ld2SQP-KLoo4Qrj-77" value="Use Case" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="70" width="110" height="50" as="geometry" />
+        <mxCell id="ut147Ld2SQP-KLoo4Qrj-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ut147Ld2SQP-KLoo4Qrj-78" target="ut147Ld2SQP-KLoo4Qrj-75">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ut147Ld2SQP-KLoo4Qrj-78" value="Calculate&lt;br&gt;Total" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="380" width="110" height="50" as="geometry" />
@@ -108,6 +108,12 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="390" y="320" as="sourcePoint" />
             <mxPoint x="550" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ut147Ld2SQP-KLoo4Qrj-89" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ut147Ld2SQP-KLoo4Qrj-48" target="ut147Ld2SQP-KLoo4Qrj-73">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="390" y="380" as="sourcePoint" />
+            <mxPoint x="550" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
