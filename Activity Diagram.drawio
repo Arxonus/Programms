@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T07:44:34.555Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XenwT0lFFgOQyDitYwrk" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T07:45:48.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XR5vZ_zJhuSQ3-TERtvE" version="21.2.7" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="2074" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -223,14 +223,17 @@
         <mxCell id="zVyqp4gvz3qX1buBmBPS-80" value="&lt;b&gt;C&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1450" y="690" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zVyqp4gvz3qX1buBmBPS-82" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="554.38" width="60" height="30" as="geometry" />
+        <mxCell id="zVyqp4gvz3qX1buBmBPS-82" value="[update Needed]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="560" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zVyqp4gvz3qX1buBmBPS-84" value="[More Shopping]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1270" y="710" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zVyqp4gvz3qX1buBmBPS-86" value="&lt;b&gt;[done with shopping]&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1430" y="605" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zVyqp4gvz3qX1buBmBPS-89" value="&lt;b&gt;B&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="900" y="565" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
