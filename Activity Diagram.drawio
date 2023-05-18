@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T07:46:41.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="8aGE7f4zTSlwR4Jyq9xU" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T07:50:00.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="O-ren2IbRJT9S6LV6PRl" version="21.2.7" type="github">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="2074" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -237,6 +237,15 @@
         </mxCell>
         <mxCell id="zVyqp4gvz3qX1buBmBPS-91" value="[View Chart]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1100" y="450" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zVyqp4gvz3qX1buBmBPS-94" value="Shopping Cart can be checked at any time" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="560" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zVyqp4gvz3qX1buBmBPS-96" value="" style="edgeStyle=none;endArrow=none;exitX=0.88;exitY=1.033;dashed=1;html=1;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="zVyqp4gvz3qX1buBmBPS-94" parent="1">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="310" y="670" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
