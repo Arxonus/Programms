@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T08:53:01.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="VEFJqz0lK65gsr5sRGOv" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T09:02:15.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="eVJRq5vVnsJcPGFK7C_g" version="21.2.7" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1728" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -50,10 +50,10 @@
           <mxGeometry x="10" y="240" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pbddXSKgidAPoTGEYEpa-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="pbddXSKgidAPoTGEYEpa-8">
-          <mxGeometry x="10" y="300" width="10" height="30" as="geometry" />
+          <mxGeometry x="10" y="330" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pbddXSKgidAPoTGEYEpa-19" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="pbddXSKgidAPoTGEYEpa-8">
-          <mxGeometry x="10" y="360" width="10" height="40" as="geometry" />
+          <mxGeometry x="10" y="390" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pbddXSKgidAPoTGEYEpa-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="pbddXSKgidAPoTGEYEpa-8">
           <mxGeometry x="10" y="450" width="10" height="30" as="geometry" />
@@ -63,6 +63,27 @@
         </mxCell>
         <mxCell id="pbddXSKgidAPoTGEYEpa-9" value="&lt;b&gt;Customer&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbddXSKgidAPoTGEYEpa-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="pbddXSKgidAPoTGEYEpa-15" target="pbddXSKgidAPoTGEYEpa-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="190" as="sourcePoint" />
+            <mxPoint x="540" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbddXSKgidAPoTGEYEpa-23" value="Access Website" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbddXSKgidAPoTGEYEpa-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="pbddXSKgidAPoTGEYEpa-16" target="7baba1c4bc27f4b0-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="300" as="sourcePoint" />
+            <mxPoint x="540" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbddXSKgidAPoTGEYEpa-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="pbddXSKgidAPoTGEYEpa-17" target="pbddXSKgidAPoTGEYEpa-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="300" as="sourcePoint" />
+            <mxPoint x="540" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
