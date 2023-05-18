@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-18T09:09:34.722Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jCqBBYEHT5C8iTPnQR-t" version="21.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-18T09:11:59.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="puRefZSuuWd85YALKUKc" version="21.2.7" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1728" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pbddXSKgidAPoTGEYEpa-23" value="Access Website" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="190" width="90" height="30" as="geometry" />
+          <mxGeometry x="295" y="220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pbddXSKgidAPoTGEYEpa-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="pbddXSKgidAPoTGEYEpa-16" target="7baba1c4bc27f4b0-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -124,6 +124,24 @@
         </mxCell>
         <mxCell id="pbddXSKgidAPoTGEYEpa-35" value="Send payment information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="440" y="410" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbddXSKgidAPoTGEYEpa-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="pbddXSKgidAPoTGEYEpa-13" target="pbddXSKgidAPoTGEYEpa-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="480" as="sourcePoint" />
+            <mxPoint x="540" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbddXSKgidAPoTGEYEpa-38" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="425" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbddXSKgidAPoTGEYEpa-39" value="Browse products" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbddXSKgidAPoTGEYEpa-40" value="Add Product to cart" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="345" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pbddXSKgidAPoTGEYEpa-41" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="490" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
