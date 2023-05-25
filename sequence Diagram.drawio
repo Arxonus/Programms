@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T06:40:04.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="FTIi5_njD7Ho_c1XZ1hL" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T06:44:45.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_z6Q32XmHQwVepWjbmvJ" version="21.3.2" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="2074" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7baba1c4bc27f4b0-3" value="Application Interface" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="230" y="80" width="250" height="545" as="geometry" />
+          <mxGeometry x="190" y="80" width="250" height="545" as="geometry" />
         </mxCell>
         <mxCell id="pbddXSKgidAPoTGEYEpa-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="7baba1c4bc27f4b0-3" vertex="1">
           <mxGeometry x="120" y="70" width="10" height="70" as="geometry" />
@@ -16,9 +16,6 @@
         <mxCell id="58VFjzgNYQ-1odpt6130-13" value="Purchase" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7baba1c4bc27f4b0-3">
           <mxGeometry x="120" y="140" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="58VFjzgNYQ-1odpt6130-21" value="display price info" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7baba1c4bc27f4b0-3">
-          <mxGeometry x="150" y="490" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="7baba1c4bc27f4b0-4" value="Item ID" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="450" y="80" width="120" height="557.5" as="geometry" />
         </mxCell>
@@ -27,6 +24,9 @@
         </mxCell>
         <mxCell id="58VFjzgNYQ-1odpt6130-17" value="get selected item" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7baba1c4bc27f4b0-4">
           <mxGeometry x="-40" y="230" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="58VFjzgNYQ-1odpt6130-21" value="display price info" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7baba1c4bc27f4b0-4">
+          <mxGeometry x="-80" y="490" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7baba1c4bc27f4b0-5" value="Purchase Interface" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="600" y="80" width="120" height="560" as="geometry" />
