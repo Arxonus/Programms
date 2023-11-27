@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T19:02:58.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HqSvPdzZO70YXOIdAA-2" version="21.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T19:06:23.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ysErp0SjiNyZcPMO-CQ2" version="21.3.5" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="3174" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
           <mxGeometry y="156" width="260" height="8" as="geometry" />
         </mxCell>
         <mxCell id="78961159f06e98e8-43" value="Ακίνητο (Property)" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#f5f5f5;fontFamily=Verdana;fontSize=12;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="760" y="83" width="270" height="210" as="geometry" />
+          <mxGeometry x="760" y="83" width="270" height="187" as="geometry" />
         </mxCell>
         <mxCell id="78961159f06e98e8-44" value="Κωδικός Ακινήτου (PropertyID, PK)" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#333333;" parent="78961159f06e98e8-43" vertex="1">
           <mxGeometry y="26" width="270" height="26" as="geometry" />
@@ -79,9 +79,6 @@
         </mxCell>
         <mxCell id="78961159f06e98e8-52" value="(Για Οικόπεδο) Εμβαδόν" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#333333;" parent="78961159f06e98e8-43" vertex="1">
           <mxGeometry y="158" width="270" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="78961159f06e98e8-53" value="+ method(type): type" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#333333;" parent="78961159f06e98e8-43" vertex="1">
-          <mxGeometry y="184" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="78961159f06e98e8-56" value="Ιδιοκτήτης (Owner):" style="swimlane;html=1;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#f5f5f5;fontFamily=Verdana;fontSize=12;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1230" y="90" width="180" height="130" as="geometry" />
