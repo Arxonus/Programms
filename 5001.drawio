@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T10:53:10.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UHv02M8zbLGLsSg7zVFO" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-02T10:54:27.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="M6xVxJi5qQsu2QX12KrC" version="22.1.5" type="github">
   <diagram name="Σελίδα-1" id="EQWyB4UUsjPaoW2f4u0o">
     <mxGraphModel dx="2012" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -184,6 +184,18 @@
             <mxPoint x="455" y="521" as="sourcePoint" />
             <mxPoint x="419" y="562" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TbY--2hvaG6G_KtKF99z-63" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=0.457;exitY=0.019;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.22;entryY=0.957;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TbY--2hvaG6G_KtKF99z-43" target="TbY--2hvaG6G_KtKF99z-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="420" as="sourcePoint" />
+            <mxPoint x="470" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TbY--2hvaG6G_KtKF99z-64" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="TbY--2hvaG6G_KtKF99z-63">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbY--2hvaG6G_KtKF99z-66" value="Aναφέρεται σε" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="475" y="310" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
